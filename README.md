@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently researching AI Document Intelligence
+🔭 Currently researching how to change the world
 
 
 # 💻 Tech Stack:
